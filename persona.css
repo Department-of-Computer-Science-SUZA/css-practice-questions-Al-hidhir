@@ -1,0 +1,50 @@
+body {
+    background-color: #f0f0f0;
+    background-image: url("bb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+h1 {
+    color: #4f4848;
+    padding-top: 10px;
+    text-align: center;
+}
+
+p {
+    color: #666;
+}
+
+a {
+    text-decoration: none;
+    color: #c4def8;
+    display: block;
+    margin-bottom: 10px;
+    
+}
+
+a:hover {
+    color: #ff6600;
+    
+}
+
+img {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.mainP {
+    background-color:#eee; 
+    width: 75%; 
+    height: 100%;
+    padding-top: 20px; 
+    padding-left: 20px;
+}
+.mainR {
+    background-color: #93a4a2; 
+    background-image: url("wood.jpeg");
+    width: 15%; height: 100%;
+    padding-top: 20px; 
+    padding-left: 20px;
+}
